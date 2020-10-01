@@ -1,23 +1,26 @@
-
-
-
 body {
-  background-color: #393E46;
+  background-image: linear-gradient(
+    to right top,
+    #328ea1,
+    #3f6581,
+    #3e3f54,
+    #282028,
+    #000000
+  );
 }
 
 h1 {
   margin: 30px;
-  font-family: 'Lobster', cursive;
+  font-family: "Lobster", cursive;
   text-shadow: 5px 0 #232931;
   font-size: 8rem;
-  color: #4ECCA3;
+  color: #4ecca3;
   text-align: center;
-
 }
-h5{
+h5 {
   margin: 30px;
-  font-family: 'Lobster', cursive;
+  font-family: "Lobster", cursive;
   text-shadow: 5px 0 #232931;
   font-size: 4rem;
-  color: #4ECCA3;
+  color: #4ecca3;
 }
