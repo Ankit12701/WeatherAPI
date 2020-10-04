@@ -10,17 +10,17 @@ body {
 }
 
 h1 {
-  margin: 30px;
+  margin: 31px;
   font-family: "Lobster", cursive;
-  text-shadow: 5px 0 #232931;
-  font-size: 8rem;
-  color: #4ecca3;
+  text-shadow: 5px 0 #232930;
+  font-size: 9rem;
+  color: #4ecca2;
   text-align: center;
 }
 h5 {
   margin: 30px;
   font-family: "Lobster", cursive;
-  text-shadow: 5px 0 #232931;
-  font-size: 4rem;
-  color: #4ecca3;
+  text-shadow: 6px 0 #232932;
+  font-size: 5rem;
+  color: #4ecca2;
 }
